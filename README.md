@@ -1,2 +1,2 @@
-# Foxapp
-A social media app
+# Personal form
+A form to collect user information
